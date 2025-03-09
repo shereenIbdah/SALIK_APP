@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "179788562268",
+    "project_id": "salikapp-5",
+    "storage_bucket": "salikapp-5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179788562268:android:e07468b44f9a645cd58b99",
+        "android_client_info": {
+          "package_name": "com.example.grad_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc9Ty0Jgr8_gHLPolttHwO7rqudKKFQ2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
