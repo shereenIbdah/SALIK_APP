@@ -25,8 +25,10 @@ SALIK provides real-time updates on checkpoint statuses, helping users plan thei
    git clone https://github.com/shereenIbdah/SALIK_APP.git
    cd SALIK_APP
 2. Install dependencies
+     ```sh
    flutter pub get
-3. Run the app:
+4. Run the app:
+     ```sh
   flutter run
 ## Demo
 Watch the demo:
