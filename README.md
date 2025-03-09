@@ -28,7 +28,7 @@ SALIK provides real-time updates on checkpoint statuses, helping users plan thei
      ```sh
    flutter pub get
 4. Run the app:
-     ```sh
+   ```sh
   flutter run
 ## Demo
 Watch the demo:
