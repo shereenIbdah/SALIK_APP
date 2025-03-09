@@ -30,7 +30,9 @@ SALIK provides real-time updates on checkpoint statuses, helping users plan thei
   flutter run
 ## Demo
 Watch the demo:
-[Link Text](https://drive.google.com/drive/u/0/folders/1PO1fvQorrInCRx4CEwD9tSGRMREgOGS_)
+[Live Demo ](https://drive.google.com/drive/u/0/folders/1PO1fvQorrInCRx4CEwD9tSGRMREgOGS_)
+
+
 
 
 
